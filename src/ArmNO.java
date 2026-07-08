@@ -1,4 +1,4 @@
-public class armNO {
+public class ArmNO {
 
     public static void main(String... args) {
 
